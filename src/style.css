@@ -1,0 +1,16 @@
+body{
+    width: 250px;
+    background-color:white;
+}
+.home{
+    display: flex;
+    flex-direction: row;
+    /* gap: 20px; */
+    justify-content: space-between;
+}
+.images{
+    height: 40px;
+    width: 40px;
+    /* border: 1px solid rgb(138, 107, 107); */
+    cursor: pointer;
+}

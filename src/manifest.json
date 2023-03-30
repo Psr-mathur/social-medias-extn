@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "version": "0.1.1",
+    "name": "Social Medias",
+    "action":{
+        "default_popup":"index.html",
+        "default_icon":{
+            "2" : "logo.jpg"
+        }
+    },
+    "permissions":[
+        "tabs"
+    ]
+}
